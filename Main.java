@@ -13,7 +13,7 @@ public class Main {
 		double s = sc.nextDouble();
 		double pi = Math.PI;
 		double p = (2*pi*s);
-		
+	
 		sc.close();
 	
 		System.out.println("Circle circumference = " +p);
