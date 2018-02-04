@@ -6,8 +6,8 @@ public class main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Длина окружности круга через радиус.");
-		System.out.println("Введите радиус =");
+		System.out.println("The length of the circumference of the circle through the radius.");
+		System.out.println("Enter radius =");
 		
 		Scanner sc = new Scanner(System.in);
 		double s = sc.nextDouble();
@@ -16,7 +16,7 @@ public class main {
 		
 		sc.close();
 	
-		System.out.println("Длина окружности круга = " +p);
+		System.out.println("Circle circumference = " +p);
 		
 	}
 
